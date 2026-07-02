@@ -19,14 +19,17 @@
 | [0070-climbing-stairs](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -36,6 +39,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
