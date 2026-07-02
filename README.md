@@ -6,11 +6,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -44,4 +46,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0202-happy-number) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
