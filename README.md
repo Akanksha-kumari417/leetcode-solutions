@@ -13,6 +13,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/1051-height-checker) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/1051-height-checker) |
 ## String
 |  |
 | ------- |
@@ -81,4 +83,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
