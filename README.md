@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
