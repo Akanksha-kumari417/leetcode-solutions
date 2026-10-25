@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -77,6 +78,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
@@ -114,4 +116,8 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
