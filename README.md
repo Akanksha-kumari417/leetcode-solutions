@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0001-two-sum) |
+| [0051-n-queens](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -120,4 +121,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
