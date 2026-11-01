@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0001-two-sum) |
+| [0039-combination-sum](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -127,6 +128,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0051-n-queens) |
 ## Algorithm X
 |  |
