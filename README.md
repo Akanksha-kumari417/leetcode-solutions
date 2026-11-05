@@ -10,6 +10,7 @@
 | [0054-spiral-matrix](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0136-single-number) |
@@ -53,6 +54,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Recursion
@@ -130,6 +132,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0051-n-queens) |
+| [0090-subsets-ii](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0090-subsets-ii) |
 ## Algorithm X
 |  |
 | ------- |
