@@ -14,6 +14,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0136-single-number) |
+| [0216-combination-sum-iii](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -133,6 +134,7 @@
 | [0039-combination-sum](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 ## Algorithm X
 |  |
 | ------- |
