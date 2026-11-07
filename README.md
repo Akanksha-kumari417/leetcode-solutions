@@ -9,6 +9,7 @@
 | [0051-n-queens](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -89,6 +90,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Binary Search
@@ -108,6 +110,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -119,6 +122,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -138,6 +142,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0216-combination-sum-iii) |
