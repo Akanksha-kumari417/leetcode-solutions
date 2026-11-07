@@ -47,6 +47,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -88,6 +89,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0131-palindrome-partitioning](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
@@ -137,6 +139,7 @@
 | [0039-combination-sum](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 ## Algorithm X
 |  |
