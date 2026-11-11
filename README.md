@@ -71,6 +71,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -159,4 +160,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0037-sudoku-solver) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
