@@ -82,6 +82,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -172,4 +173,5 @@
 | [0206-reverse-linked-list](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Akanksha-kumari417/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
